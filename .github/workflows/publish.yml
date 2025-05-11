@@ -1,0 +1,15 @@
+.github/
+  workflows/
+    publish.yml
+_config.yml
+Gemfile
+_layouts/
+  default.html
+_includes/
+  head.html
+scripts/
+  generate_posts.py
+  requirements.txt
+content_plan.csv
+_posts/         ← leave empty
+assets/images/  ← leave empty
